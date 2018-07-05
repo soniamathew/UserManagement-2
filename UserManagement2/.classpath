@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/aopalliance-repackaged-2.4.0-b10.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/hk2-api-2.4.0-b10.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/hk2-locator-2.4.0-b10.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/hk2-utils-2.4.0-b10.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/javax.inject-2.4.0-b10.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/jaxrs-ri-2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/jersey-client-2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/jersey-common-2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/jersey-container-servlet-2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/jersey-container-servlet-core-2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/jersey-guava-2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/jersey-media-jaxb-2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/jersey-server-2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/bin/bootstrap.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/bin/commons-daemon.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/bin/tomcat-juli.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/ecj-4.4.2.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/tomcat7-websocket.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/apache-tomcat-7.0.88/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/aopalliance-repackaged-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/hk2-api-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/hk2-locator-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/hk2-utils-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/javax.inject-2.4.0-b34.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/jersey-client-2.23.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/jersey-common-2.23.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/jersey-container-servlet-core-2.23.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/jersey-guava-2.23.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/jersey-media-jaxb-2.23.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/jersey-server-2.23.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jar_files (1)/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/api/javax.ws.rs-api-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/aopalliance-repackaged-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/cdi-api-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/el-api-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/hk2-api-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/hk2-locator-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/hk2-utils-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/javassist-3.22.0-CR2.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/javax.inject-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/javax.json-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/javax.json-api-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/javax.json.bind-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/ext/yasson-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/lib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/lib/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/lib/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/lib/jersey-hk2.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/lib/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/lib/jersey-media-json-binding.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/lib/jersey-media-sse.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri/lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jaxrs-ri-2.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/jersey-container-servlet-core-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/java-json.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="/Users/tekion/Downloads/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
